@@ -26,6 +26,10 @@
 ## More generative tools
 A complete list of generative tools can be found [here](https://github.com/steven2358/awesome-generative-ai).
 
+## Referenced content
+- Trump AI generated video: [link](https://www.youtube.com/watch?v=h0UUhUZ7mkE)
+- TechCrunch article about future of copyright: [link](https://techcrunch.com/2023/05/09/generative-ai-and-copyright-law-whats-the-future-for-ip/)
+- AI Drake/The Weeknd song: [link](https://hls.harvard.edu/today/ai-created-a-song-mimicking-the-work-of-drake-and-the-weeknd-what-does-that-mean-for-copyright-law/)
 
 
 
