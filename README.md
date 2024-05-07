@@ -1,5 +1,10 @@
 # Useful resources 🤖
 
+- INTEL Enhancing Photorealism Enhancement. Nice demonstration of current style video customization. [link](https://www.youtube.com/watch?v=P1IcaBn3ej0&t=8s)
+
+## Animation market analasys
+- Market analysis on animation industry by CVL Economics. [link](https://animationguild.org/wp-content/uploads/2024/01/Future-Unscripted-The-Impact-of-Generative-Artificial-Intelligence-on-Entertainment-Industry-Jobs-pages-1.pdf)
+
 ## Image generators
 - DALL-E 2. Free trial of 15 images per month. Used for generation, inpainting, outpainting and image variation. [Link](https://openai.com/product/dall-e-2)
 
@@ -30,7 +35,7 @@ A complete list of generative tools can be found [here](https://github.com/steve
 - Trump AI generated video: [link](https://www.youtube.com/watch?v=h0UUhUZ7mkE)
 - TechCrunch article about future of copyright: [link](https://techcrunch.com/2023/05/09/generative-ai-and-copyright-law-whats-the-future-for-ip/)
 - AI Drake/The Weeknd song: [link](https://hls.harvard.edu/today/ai-created-a-song-mimicking-the-work-of-drake-and-the-weeknd-what-does-that-mean-for-copyright-law/)
-
+- Drake AI Tupac song: [link](https://www.youtube.com/watch?v=MM0J1szDoPM)
 
 
 
